@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sidenav_React/static/css/main.9df81d34.css",
+    "main.js": "/Sidenav_React/static/js/main.e6f71886.js",
+    "static/js/787.afe4db17.chunk.js": "/Sidenav_React/static/js/787.afe4db17.chunk.js",
+    "index.html": "/Sidenav_React/index.html",
+    "main.9df81d34.css.map": "/Sidenav_React/static/css/main.9df81d34.css.map",
+    "main.e6f71886.js.map": "/Sidenav_React/static/js/main.e6f71886.js.map",
+    "787.afe4db17.chunk.js.map": "/Sidenav_React/static/js/787.afe4db17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df81d34.css",
+    "static/js/main.e6f71886.js"
+  ]
+}
